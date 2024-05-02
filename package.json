@@ -1,0 +1,27 @@
+{
+  "name": "rhaletskyjmaluy",
+  "version": "1.0.0",
+  "description": "FasolunaTEA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhaletskyj/rhaletskyjmaluy.git"
+  },
+  "dependencies": {
+    "leleka2580130": "1.0.2",
+    "paket228": "1.0.3",
+    "trukytnuk": "1.0.0",
+    "galetska222": "1.0.1",
+    "smetanka": "1.0.2",
+    "morvunka228": "1.0.3"
+    },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaletskyj/rhaletskyjmaluy/issues"
+  },
+  "homepage": "https://github.com/Rhaletskyj/rhaletskyjmaluy#readme"
+}
